@@ -42,7 +42,10 @@ The web application has been hosted on Heroku.
 * Exception Handling
 
 ## Installation Command
+```
+npm install
 
+```
 
 
 
