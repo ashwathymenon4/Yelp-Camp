@@ -44,8 +44,17 @@ The web application has been hosted on Heroku.
 ## Installation Command
 ```
 npm install
-
 ```
+## Package contents
+* models - Contains schema definition for campground, review and user
+* routes - Contains routes for campground, review and user
+* controllers - Contains controllers required for routes.
+* views - Contains EJS files for campground, user, partials, home page, error page, layouts
+* utils - For Error and Exception handling
+* public - Contains javascript and stylesheets
+* seeds - To seed the database in development environment
+* cloudinary - Cloudinary configuration and module export
+
 
 
 
